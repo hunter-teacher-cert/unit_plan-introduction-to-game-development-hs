@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by Latoya Boland
 
 -----
 
@@ -9,7 +9,8 @@ by TEAM MEMBERS
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
+
+I currently have a class with seniors that took the AP CSP exam their junior year. I currently use the PLTW Cybersecurity curriculum with them. While I think it is definitely important for them to learn about cybersecurity as it pertains to ethics and various societal impacts, many have said they wish they could focus on game design. PLTW has a Game Design and Development course that uses Roblox, which the kids are already familiar with; so, I will be using it as a jumping off point/reference resource as I embark on my journey into the world of game design/development.  The end goal is to develop an introductory unit that is accessible to both beginner and advanced CS students.  Ultimately, having exposure to game design and development will serve to round out the students’ over all computer science experience and skill set.
 
 ---
 
@@ -20,16 +21,21 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+-JavaScript
+-Python
+-Roblox, Repl.it, p5 editor
 
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
 
+
+
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2-3 Weeks
 
 (list each lesson with main topic(s))
 
