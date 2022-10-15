@@ -21,9 +21,9 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
--JavaScript
--Python
--Roblox, Repl.it, p5 editor
+- JavaScript
+- Python
+- Roblox, Repl.it, p5 editor
 
 ---
 
