@@ -36,9 +36,13 @@ List The NY State Computer Science standards you will be covering in this unit. 
   - Roblox Education 
     - https://education.roblox.com/
     - https://education.roblox.com/educators/
+  - Educator FAQs https://create.roblox.com/docs/education/resources/frequently-asked-questions-education
+  - Classroom Setup https://create.roblox.com/docs/education/resources/resources-landing
   - How to teach with Roblox https://create.roblox.com/docs/education/support/education-getting-started
   - Students & Families https://education.roblox.com/studentsandfamilies/
-  
+
+
+Reference:
 - Scratch/Snap https://scratch.mit.edu/
 - Code.org
 - CodeHS.com
