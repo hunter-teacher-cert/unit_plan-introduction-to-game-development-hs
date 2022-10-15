@@ -30,7 +30,17 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ### Resources
 (include any links/books/readings to be used during this unit)
 
-
+-PLTW Resources
+  
+-Roblox
+  -https://education.roblox.com/educators/
+  -How to teach with Roblox https://create.roblox.com/docs/education/support/education-getting-started
+  -https://education.roblox.com/studentsandfamilies/
+  
+-Scratch/Snap https://scratch.mit.edu/
+-Code.org
+-CodeHS.com
+-
 
 ---
 
