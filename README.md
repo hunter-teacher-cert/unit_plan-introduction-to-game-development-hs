@@ -13,6 +13,8 @@ Students will learn design and development skills through different activities u
   - Prompts 
   - Programming 
   - Create Game 
+
+
 Students will complete various activities that will build their understanding of the various components necessary to design and develop games in Roblox.  After completing all of the activities, students will be challenged to complete their own game utilizing all of the concepts and skills they learned throughout the unit.  
 
 This unit will be completed during our double-period session on Fridays as a stand-alone CS application series.
