@@ -6,6 +6,17 @@ by Latoya Boland
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
 
+In this unit, students will create online experiences using Roblox Studio for developing games and virtual worlds.  
+Students will learn design and development skills through different activities using the Roblox Studio and script editor.  The are five main compoents of the unit include:
+  - Getting to know Roblox 
+  - Advanced IDE Concepts 
+  - Prompts 
+  - Programming 
+  - Create Game 
+Students will complete various activities that will build their understanding of the various components necessary to design and develop games in Roblox.  After completing all of the activities, students will be challenged to complete their own game utilizing all of the concepts and skills they learned throughout the unit.  
+
+This unit will be completed during our double-period session on Fridays as a stand-alone CS application series.
+
 ---
 
 ### Motivation for Unit
@@ -52,7 +63,6 @@ Support Resources:
 - Code.org
 - CodeHS.com
 
-
 ---
 
 ### Lessons
@@ -65,7 +75,7 @@ Total lenght: 2-3 Weeks
   - Event/Event Handling
   - Parent/child Hierarchy
   
--Prompts (3 Days)
+- Prompts (3 Days)
   - Complex scripts
     - script.Parent
     - prompt.Parent 
@@ -111,6 +121,11 @@ Total lenght: 2-3 Weeks
   - Error Analysis
   - Conditonals (if/else/elseif)
   
- - Summative Project
+ - Summative Project (I will use the PLTW Problem Template & Rubric)
+ 
+  - [Set Up Your World _ Game Design and Development _ Game Design &….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792912/Set.Up.Your.World._.Game.Design.and.Development._.Game.Design.pdf)
+  
+  - [GDD_Problem_Rubric.docx](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792910/GDD_Problem_Rubric.docx)
+
 
 ---
