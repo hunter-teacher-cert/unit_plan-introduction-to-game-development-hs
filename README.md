@@ -7,7 +7,7 @@ by Latoya Boland
 (include here description of unit, what class(es) it fits into, when...)
 
 In this unit, students will create online experiences using Roblox Studio for developing games and virtual worlds.  
-Students will learn design and development skills through different activities using the Roblox Studio and script editor.  The are five main compoents the unit will include:
+Students will learn design and development skills through different activities using the Roblox Studio and script editor.  There are five main compoents the unit will include:
   - Getting to know Roblox 
   - Advanced IDE Concepts 
   - Prompts 
