@@ -17,13 +17,17 @@ I currently have a class with seniors that took the AP CSP exam their junior yea
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
 
+-
+
+
+
 ---
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 - JavaScript
 - Python
-- Roblox, Repl.it, p5 editor
+- Roblox Studio, Roblox script editor, Repl.it, p5 editor
 
 ---
 
@@ -42,22 +46,37 @@ List The NY State Computer Science standards you will be covering in this unit. 
   - Students & Families https://education.roblox.com/studentsandfamilies/
 
 
-Reference:
+Support Resources:
 - Scratch/Snap https://scratch.mit.edu/
 - Code.org
 - CodeHS.com
--
+
 
 ---
 
 ### Lessons
+(list each lesson with main topic(s))
 Total lenght: 2-3 Weeks
 
-(list each lesson with main topic(s))
+- Getting to know Roblox
+- Advanced IDE Concepts
+- Pirates and Prompts
+- Programming Pirates
+- Create Game
 
 ---
 
 ### Assesments
 (list summative and/or formative assessments used)
+
+- Do Now/ Exit Tickets assessing understanding of covered concepts 
+  - Functions
+  - Event Handling
+  - Print statements
+  - Variables
+  - Error Analysis
+  - Conditonals (if/else/elseif)
+  
+ - Summative Project
 
 ---
