@@ -88,7 +88,7 @@ Total lenght: 2-3 Weeks
   - Markers, Welding, Particles Emmitters* (Roblox Studio)
   
 - Programming (3 Days)
-  -Conditionals 
+  - Conditionals 
     - if statements
     - else statements
     - elseif statements
