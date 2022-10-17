@@ -114,7 +114,7 @@ Total lenght: 2-3 Weeks
 ### Assesments
 (list summative and/or formative assessments used)
 
-- Do Now/ Exit Tickets assessing understanding of covered concepts 
+- Do Now/ Exit Tickets and Activities assessing understanding of covered concepts 
   - Functions
   - Events & Event Handling
   - Parent/child hierarchy
