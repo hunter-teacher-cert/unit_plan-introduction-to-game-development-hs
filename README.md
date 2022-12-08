@@ -172,7 +172,7 @@ Total length: 2 Weeks
 
 ---
 
-## Assesments
+## Assessments
 (list summative and/or formative assessments used)
 
 - Do Now/ Exit Tickets and Activities assessing understanding of covered concepts: 
