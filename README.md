@@ -110,7 +110,7 @@ Total length: 2 Weeks
 
 ## Prompts (3 Days)
 
-  -Focus Topics:  
+  - Focus Topics:  
     - Complex scripts
       - script.Parent
       - prompt.Parent 
