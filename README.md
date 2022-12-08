@@ -59,7 +59,7 @@ personal expression, or to address a societal issue.
 
 - PLTW Resources
   - [FWK_Game_Design_Dev_course.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792768/FWK_Game_Design_Dev_course.pdf)
-  -[PLTW_GDD_Technical_Requirements.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792762/PLTW_GDD_Technical_Requirements.pdf)
+  - [PLTW_GDD_Technical_Requirements.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792762/PLTW_GDD_Technical_Requirements.pdf)
   
 - Roblox
   - Roblox Education 
