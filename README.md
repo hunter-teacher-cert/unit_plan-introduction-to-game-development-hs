@@ -79,55 +79,82 @@ Support Resources:
 
 ---
 
-### Lessons
+# Lessons
 (list each lesson with main topic(s))
 
-Total lenght: 2 Weeks
+Total length: 2 Weeks
 
-- Getting to know Roblox (1-2 Days)
+## Getting to know Roblox (1 Day)
+
   - Essential Questions:
     - What are the basic tools of game development?
     - What are the basic assets and objects I can create in a game? 
-  - Student Facing Document
+    
+  - Student Facing Documents:
     - [Activity 1_ Getting to Know Roblox _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10188882/Activity.1_.Getting.to.Know.Roblox._.Game.Design.and.Development.pdf)
+    - [Getting Started in Roblox Studio _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189033/Getting.Started.in.Roblox.Studio._.Game.Design.and.Development.pdf)
 
-- Advanced IDE Concepts (2 Days)
-  - Focus Topics  
+## Advanced IDE Concepts (2 Days)
+
+  - Focus Topics:  
     - Event/Event Handling
     - Parent/child Hierarchy
+    
   - Essential Questions:
     - How do game assets interact?
     - What is an object hierarchy? 
-  - Student Facing Document
+   
+  - Student Facing Documents:
     - [Activity 2_ Bowling into Advanced IDE Concepts _ Game Design and….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10188938/Activity.2_.Bowling.into.Advanced.IDE.Concepts._.Game.Design.and.pdf)
+    - [Customize Your Avatar _ Game Design and Development _ Game Design &….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189036/Customize.Your.Avatar._.Game.Design.and.Development._.Game.Design.pdf)
 
-- Prompts (3 Days)
-  - Complex scripts
-    - script.Parent
-    - prompt.Parent 
-  - Functions
-  - Print Statements
-    - tostring Method
-  - Proximity Prompts
-  - Responding with Event Handlers
-  - Using Strings
-  - Markers, Welding, Particles Emmitters* (Roblox Studio)
-  
-- Programming (3 Days)
-  - Conditionals 
-    - if statements
-    - else statements
-    - elseif statements
-  - Boolean Values
-  - Variables
-  - Concatenation
-  - Create Leaderboard
-  - Combined assignment Operator
-  - Random Functions
-  
-- Create Game (5 Days)
+## Prompts (3 Days)
 
-- Iterative Development* (Supplemental Lesson)
+  -Focus Topics:  
+    - Complex scripts
+      - script.Parent
+      - prompt.Parent 
+    - Functions
+    - Print Statements
+      - tostring Method
+    - Proximity Prompts
+    - Responding with Event Handlers
+    - Using Strings
+    - Markers, Welding, Particles Emmitters* (Roblox Studio)
+    
+  - Essential Questions:
+    - How do you control game logic using a script?
+    - What is event handling and how do I use it in a game?
+   
+  - Student Facing Documents:
+    - [Activity 3_ Pirates & Prompts _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189031/Activity.3_.Pirates.Prompts._.Game.Design.and.Development.pdf)
+
+## Programming (3 Days)
+
+  - Focus Topics: 
+    - Conditionals 
+      - if statements
+      - else statements
+      - elseif statements
+    - Boolean Values
+    - Variables
+    - Concatenation
+    - Create Leaderboard
+    - Combined assignment Operator
+    - Random Functions
+    
+  - Essential Questions:
+    - How do I create cause and effect to enhance the game experience? 
+    - How can I create uncertainty in a game? 
+
+  - Student Facing Documents:
+  - [Activity 4_ Programming Pirates _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189147/Activity.4_.Programming.Pirates._.Game.Design.and.Development.pdf)
+
+  
+## Create Game (1 day in class & 4 days independently)
+
+
+- Iterative Development* (Supplemental Lessons)
   - Sound
   - Chat
   - NPCs
