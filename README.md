@@ -84,6 +84,7 @@ Support Resources:
 
 Total length: 2 Weeks
 
+
 ## Getting to know Roblox (1 Day)
 
   - Essential Questions:
@@ -93,6 +94,7 @@ Total length: 2 Weeks
   - Student Facing Documents:
     - [Activity 1_ Getting to Know Roblox _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10188882/Activity.1_.Getting.to.Know.Roblox._.Game.Design.and.Development.pdf)
     - [Getting Started in Roblox Studio _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189033/Getting.Started.in.Roblox.Studio._.Game.Design.and.Development.pdf)
+
 
 ## Advanced IDE Concepts (2 Days)
 
@@ -107,6 +109,7 @@ Total length: 2 Weeks
   - Student Facing Documents:
     - [Activity 2_ Bowling into Advanced IDE Concepts _ Game Design and….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10188938/Activity.2_.Bowling.into.Advanced.IDE.Concepts._.Game.Design.and.pdf)
     - [Customize Your Avatar _ Game Design and Development _ Game Design &….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189036/Customize.Your.Avatar._.Game.Design.and.Development._.Game.Design.pdf)
+
 
 ## Prompts (3 Days)
 
@@ -129,6 +132,7 @@ Total length: 2 Weeks
   - Student Facing Documents:
     - [Activity 3_ Pirates & Prompts _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189031/Activity.3_.Pirates.Prompts._.Game.Design.and.Development.pdf)
 
+
 ## Programming (3 Days)
 
   - Focus Topics: 
@@ -148,13 +152,19 @@ Total length: 2 Weeks
     - How can I create uncertainty in a game? 
 
   - Student Facing Documents:
-  - [Activity 4_ Programming Pirates _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189147/Activity.4_.Programming.Pirates._.Game.Design.and.Development.pdf)
+    - [Activity 4_ Programming Pirates _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189147/Activity.4_.Programming.Pirates._.Game.Design.and.Development.pdf)
 
   
 ## Create Game (1 day in class & 4 days independently)
+- Essential Questions:
+  - How can I create a new game in a new world?
+  - How can I leverage existing knowledge to create a new game? 
+
+- Student Facing Documents:
+  - [Project_ The Haunting of Jewel House _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189303/Project_.The.Haunting.of.Jewel.House._.Game.Design.and.Development.pdf)
 
 
-- Iterative Development* (Supplemental Lessons)
+## Iterative Development* (Supplemental Lessons)
   - Sound
   - Chat
   - NPCs
@@ -162,10 +172,10 @@ Total length: 2 Weeks
 
 ---
 
-### Assesments
+## Assesments
 (list summative and/or formative assessments used)
 
-- Do Now/ Exit Tickets and Activities assessing understanding of covered concepts 
+- Do Now/ Exit Tickets and Activities assessing understanding of covered concepts: 
   - Functions
   - Events & Event Handling
   - Parent/child hierarchy
@@ -174,11 +184,12 @@ Total length: 2 Weeks
   - Error Analysis
   - Conditonals (if/else/elseif)
   
- - Summative Project (I will use the PLTW Problem Template & Rubric)
+ - Summative Project 
+  - [Project_ The Haunting of Jewel House _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189303/Project_.The.Haunting.of.Jewel.House._.Game.Design.and.Development.pdf)
+  - [GDD_Project_Rubric.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189347/GDD_Project_Rubric.pdf)
+
  
-  - [Set Up Your World _ Game Design and Development _ Game Design &….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792912/Set.Up.Your.World._.Game.Design.and.Development._.Game.Design.pdf)
-  
-  - [GDD_Problem_Rubric.docx](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/9792910/GDD_Problem_Rubric.docx)
+ 
 
 
 ---
