@@ -81,14 +81,26 @@ Support Resources:
 
 ### Lessons
 (list each lesson with main topic(s))
-Total lenght: 2-3 Weeks
 
-- Getting to know Roblox (1 Day)
+Total lenght: 2 Weeks
+
+- Getting to know Roblox (1-2 Days)
+  - Essential Questions:
+    - What are the basic tools of game development?
+    - What are the basic assets and objects I can create in a game? 
+  - Student Facing Document
+    - [Activity 1_ Getting to Know Roblox _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10188882/Activity.1_.Getting.to.Know.Roblox._.Game.Design.and.Development.pdf)
 
 - Advanced IDE Concepts (2 Days)
-  - Event/Event Handling
-  - Parent/child Hierarchy
-  
+  - Focus Topics  
+    - Event/Event Handling
+    - Parent/child Hierarchy
+  - Essential Questions:
+    - How do game assets interact?
+    - What is an object hierarchy? 
+  - Student Facing Document
+    - [Activity 2_ Bowling into Advanced IDE Concepts _ Game Design and….pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10188938/Activity.2_.Bowling.into.Advanced.IDE.Concepts._.Game.Design.and.pdf)
+
 - Prompts (3 Days)
   - Complex scripts
     - script.Parent
