@@ -73,9 +73,10 @@ personal expression, or to address a societal issue.
 
 
 Support Resources:
-- Scratch/Snap https://scratch.mit.edu/
-- Code.org
-- CodeHS.com
+- Scratch/Snap [https://scratch.mit.edu/]
+- CodeAcademy [https://www.codecademy.com]
+- Code.org [https://code.org]
+- CodeHS.com [https://codehs.com]
 
 ---
 
