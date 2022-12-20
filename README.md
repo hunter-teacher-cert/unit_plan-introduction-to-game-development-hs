@@ -189,8 +189,8 @@ Lesson Resources:[https://drive.google.com/drive/folders/1eqY-1iEMRg9FQfr_6CIM_C
   - Conditonals (if/else/elseif)
   
  - Summative Project
-  - [Project_ The Haunting of Jewel House _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189303/Project_.The.Haunting.of.Jewel.House._.Game.Design.and.Development.pdf)
-  - [GDD_Project_Rubric.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189347/GDD_Project_Rubric.pdf)
+  - Project Outline [Project_ The Haunting of Jewel House _ Game Design and Development.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189303/Project_.The.Haunting.of.Jewel.House._.Game.Design.and.Development.pdf)
+  - Project Rubric [GDD_Project_Rubric.pdf](https://github.com/hunter-teacher-cert/unit_plan-introduction-to-game-development-hs/files/10189347/GDD_Project_Rubric.pdf)
 
  
  
