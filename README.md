@@ -179,7 +179,7 @@ Lesson Plans [https://drive.google.com/drive/folders/1eqY-1iEMRg9FQfr_6CIM_C-xIa
 ## Assessments
 (list summative and/or formative assessments used)
 
-- Do Now/ Exit Tickets and Activities assessing understanding of covered concepts: 
+- Do Now/ Exit Reflections and Activities assessing understanding of covered concepts: 
   - Functions
   - Events & Event Handling
   - Parent/child hierarchy
