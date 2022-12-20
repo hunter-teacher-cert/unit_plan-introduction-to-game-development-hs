@@ -84,7 +84,7 @@ Support Resources:
 # Lessons
 (list each lesson with main topic(s))
 
-Total length: 2 Weeks
+Total length: 2-3 Weeks
 
 Lesson Resources:[https://drive.google.com/drive/folders/1eqY-1iEMRg9FQfr_6CIM_C-xIasVSEys?usp=sharing]
 
